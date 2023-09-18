@@ -28,7 +28,7 @@
         "required": true
   
       },
-      "SUDO_CHAT_ID": {
+      "SUDO_ID": {
         "description": "Chat id where your bot running.",
         "required": true
   
